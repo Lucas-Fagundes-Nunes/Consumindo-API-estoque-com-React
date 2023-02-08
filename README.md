@@ -7,6 +7,11 @@ API utilizada está no repositório: ***https://github.com/Lucas-Fagundes-Nunes/
 Sistema desenvolvido para aprendizado do framework React, para desenvolver telas e adquirir mais conhecimentos.
 > Principal conhecimento adquirido foi o aprendizado de consumo API e transferência de dados pela mesmo (GET, POST, PUT, DELETE).
 
+##### Linguagens Utilizadas
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
 
 ##### DADOS DA API
 * ID
