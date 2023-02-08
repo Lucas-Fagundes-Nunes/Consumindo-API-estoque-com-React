@@ -1,4 +1,4 @@
-# Consumindo API estoque com VueJS
+# Consumindo API estoque com React
 
 API utilizada está no repositório: ***https://github.com/Lucas-Fagundes-Nunes/API-estoque-PHP*** 
 > A API foi desenvolvida na linguagem php, com as funções GET, POST, PUT e DELETE, está sendo usada em outros projetos.
